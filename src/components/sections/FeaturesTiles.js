@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Sustainable first.',
+    paragraph: 'We are a team of passionate individuals who are committed to making a difference in the world. We believe that through our work, we can make a positive impact on society and the environment.'
   };
 
   return (
